@@ -1,11 +1,11 @@
 #pragma once
 
 #define __LINUX__
-#include "/home/yoshk4e/Downloads/sigmaker-main/SDK/include/ida.hpp"
-#include "/home/yoshk4e/Downloads/sigmaker-main/SDK/include/idp.hpp"
+#include "../SDK/include/ida.hpp"
+#include "../SDK/include/idp.hpp"
 
-#include "/home/yoshk4e/Downloads/sigmaker-main/SDK/include/loader.hpp"
-#include "/home/yoshk4e/Downloads/sigmaker-main/SDK/include/search.hpp"
+#include "../SDK/include/loader.hpp"
+#include "../SDK/include/search.hpp"
 
 // Plugin specific definitions
 
